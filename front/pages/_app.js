@@ -8,7 +8,7 @@ import {} from "react-cookie";
 const AppShell = ({}) => {
   return (
     <>
-      <text>sfadsfasd</text>
+      <text>WEMEET MAIN</text>
     </>
   );
 };
