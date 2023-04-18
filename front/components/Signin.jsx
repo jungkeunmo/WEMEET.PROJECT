@@ -8,7 +8,7 @@ import {} from "react-cookie";
 const AppShell = ({}) => {
   return (
     <>
-      <text>LOGIN</text>
+      <text>SIGNIN</text>
     </>
   );
 };
